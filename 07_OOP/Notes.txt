@@ -1,0 +1,21 @@
+# Javascript  and Classes
+
+# OOP 
+
+# Object => Collection of Properties and Methods
+
+# Why use OOP 
+
+# Parts of OOP => Object Literal
+
+- Constructor
+- Prototypes
+- Classes
+- Instances (new, this)
+
+
+# 4 Pillars of OOP
+1. Abstraction
+2. Encapsulation
+3. Inheritance
+4. Polymorphism
